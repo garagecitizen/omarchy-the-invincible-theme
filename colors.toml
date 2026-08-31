@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Vermilion from the key art, against Regis III sand and visor teal.
+accent = "#e23a2b"
+selection = "#3d241c"
+muted = "#7a5344"
+
+background = "#1a1410"
+dark_background = "#120e0c"
+darker_background = "#0b0807"
+lighter_background = "#2c221b"
+
+foreground = "#f3e6d0"
+dark_foreground = "#8d6b56"
+light_foreground = "#e4d0b4"
+bright_foreground = "#fff4e4"
+
+hyprland_active_border = "rgba(e23a2bee) rgba(e8b86dee) 45deg"
+hyprland_inactive_border = "rgba(7a5344aa)"
+active_border_color = "#e8b86d"
+active_tab_background = "#e23a2b"
+
+red = "#e23a2b"
+yellow = "#e8b86d"
+orange = "#d46a3a"
+green = "#7a9a6e"
+cyan = "#5eb0a8"
+blue = "#3d8aa0"
+magenta = "#c45c5c"
+brown = "#7a4a32"
+
+bright_red = "#ff5c48"
+bright_yellow = "#f6d08a"
+bright_green = "#9cbe88"
+bright_cyan = "#8ed4cc"
+bright_blue = "#6ab8c8"
+bright_magenta = "#e08080"
