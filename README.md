@@ -40,5 +40,4 @@ make install   # copy into ~/.config/omarchy/themes and apply
 
 `make install` depends on `dist`, so `make install` alone is enough.
 
-This copy is a local, user-authored theme. `omarchy theme update` will not
-update it automatically.
+When installed like this, it creates a local, user-authored theme. `omarchy theme update` will not update it automatically.
